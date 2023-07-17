@@ -39,6 +39,6 @@ void Output(int data[][5]) {
 		for (int j = 0;j < 5;j++)
 			printf("%3d ", data[i][j]);
 		printf("\n");}
-	//printf("==========\n");
+	printf("==========\n");
 }
 
